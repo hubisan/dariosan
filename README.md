@@ -1,0 +1,1 @@
+# Dariosan Emacs color theme
